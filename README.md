@@ -6,7 +6,7 @@ This ServiceNow hackathon project called Yukidachi was created in a ServiceNow Q
 This project was supposed to contain .xml files that are Update Sets containing code that can be uploaded to the ServiceNow instance. However, due to company policy, only people employed by ServiceNow can view the .xml files. In this repository, there is a powerpoint that contains screenshots of the final project. There is also a screen recording of the color game. (I am logged into the instance as an administrator and not a user, so the game does not show amount of boost points, tokens or the mood at the top.)
 
 
-Files in this project:
+**Files in this project:**
 
 Hackathon Project Screenshots(used a ServiceNow Instance): Powerpoint with information and screenshots of my team's Yukidachi project
 
